@@ -3,6 +3,10 @@
 - Check daily stats with missing time alerts, days off, & more
 - Monitor performance & avoid distractions
 
+![Trackabi desktop timer application](https://raw.githubusercontent.com/Trackabi/desktop-time-tracking/main/images/trackabi-desktop-banner.png)
+
+**[Discover more & download >](https://trackabi.com/time-tracking-desktop-application)**
+
 ## About Trackabi 
 [Trackabi](https://trackabi.com) is a platform for time tracking & employee leave management with many extras such as user activity monitoring, reports, invoicing, access roles, project estimates, or even turning Git commits into timesheet entries. Plus, we offer to play the time tracking game instead of just tracking time. We use gamification to make time tracking fun. As in video games, you can create achievements for your team based on different goals with badges, entertaining congratulation messages, & Karma points. 
 
@@ -22,3 +26,5 @@
 - **Git Commits Import:** Import of commits from Git and converting them into time entries is an excellent feature for software developers. The Git commits with comments can be converted into timesheet entries. 
 - **Informative Dashboards:** A bird-eye view dashboard shows time worked summaries, employee absence days, and alerts about missing time reports (less time than expected).
 - **Company Data Insights:** Detailed overview of every employee's daily activity showing time worked, time added to a timesheet, applications used, idle time, etc.
+
+**[Get started for free >](https://trackabi.com/)**
